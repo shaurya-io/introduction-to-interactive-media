@@ -53,7 +53,7 @@ void draw() {
   arc(s,6.35*s,0.5*s,1.3*s,radians(90),radians(270));
   
   
-    //RIGHT SIDE OF FACE [X-COORDINATE OF LEFT-SIDE ELEMENTS REPLACED SUCH THAT X(R)=10-X(L)
+  //RIGHT SIDE OF FACE [X-COORDINATE OF LEFT-SIDE ELEMENTS REPLACED SUCH THAT X(R)=10-X(L)
   fill(40,82,96);
   quad(5.75*s,5.5*s,5.25*s,6*s,5.75*s,6.25*s,6.25*s,5.75*s);
   fill(112,145,150);
