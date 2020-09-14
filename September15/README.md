@@ -2,9 +2,4 @@ For the purpose of this project, I required a grid for reference. This was enabl
 
 The screenshot is attached below:
 
-
-
-
-
-
 ![Week 1 Assignment Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September15/Screenshot.PNG)
