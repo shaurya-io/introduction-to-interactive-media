@@ -6,6 +6,7 @@ void setup() {
 void draw() {
 
   float s = 50;
+  //s denotes scale, which in this case is 50 pixels
   
  
   //elements for basic facial structure
