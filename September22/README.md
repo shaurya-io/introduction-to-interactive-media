@@ -2,5 +2,5 @@ For this project, I was inspired by the patterns in the 5-dimensional tesseract 
 
 
 
-![Week 2 Assignment Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September22/Screenshot.GIF)
+![Week 2 Assignment Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September22/Screenshot.gif)
 
