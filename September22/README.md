@@ -4,3 +4,8 @@ For this project, I was inspired by the patterns in the 5-dimensional tesseract 
 
 ![Week 2 Assignment Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September22/Screenshot.gif)
 
+
+A photo the of the Interstellar Tesseract I used as inspiration is attached below:
+
+![Week 2 Assignment Inspiration - Interstellar Tesseract](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September22/Interstellar%20Tesseract%20Inspiration.jpg)
+
