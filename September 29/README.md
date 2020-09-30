@@ -10,4 +10,9 @@ Here is a screenshot of the final product:
 
 
 Here is a screenshot of the Instagram filter which inspired me:
+
+
+
+
+
 ![Week 3 Inspiration Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/September%2029/Week%203%20Inspiration%20Screenshot.jpeg)
