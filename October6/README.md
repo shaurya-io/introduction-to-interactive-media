@@ -4,5 +4,5 @@ As an artistic touch, one can also enable an oscillating gravitational field by 
 
 Attached is a screenshot of the project: 
 
-![Week 4 Assignment Screenshot] (https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/October6/Week%204%20Assignment%20Screenshot%20.png)
+![Week 4 Assignment Screenshot](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/October6/Week%204%20Assignment%20Screenshot%20.png)
 
