@@ -1,4 +1,6 @@
-The prime focus of this project was to manipulate an image in a way that creates an aesthetic experience for the viewer. To this end, I wanted to explore Processing in 3D using the P3D renderer. One of the very first ideas I had about the prompt was to somehow replace the pixels in a given image with 3D lines - and I tried to find a meaningful way to decide the length of those lines. 
+The prime focus of this project was to manipulate an image in a way that creates an aesthetic experience for the viewer. To this end, I wanted to explore Processing in 3D using the P3D renderer. One of the very first ideas I had about the prompt was to somehow replace the pixels in a given image with 3D lines - and I tried to find a meaningful way to decide the length of those lines.
+
+*This project also used the PeasyCam library, that allows you to move and rotate objects in a 3D space with barely 2-3 lines of initializing code. In addition, it allows allows for zoom in and out using the mouse click-wheel.*
 
 In Version 1, I used the image thrice, and constructed 3 groups of lines which begin in the plane of the image and lie in the Z-space facing away from the viewer. The first group derives its lengths from the R-values of every pixel (from the RGB system), the second one uses the G-values, and (no surprises here) the third one uses the B-values.
 
