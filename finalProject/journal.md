@@ -8,6 +8,10 @@ During the course of working on the previous weekly assignment, in which I prese
 
 Other elements I am thinking of introducing are a buzzer to signify Game Over, as well as a puzzle on the breadboard in the center which needs to be solved while the sonar is active. I am also considering adding a set of proper speakers to the setup and learning how to play music using Arduino, to give the entire project a Mission Impossible like feel.
 
+A rough sketch can be seen below:
+
+![Sketch of the preliminary idea] (https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Final%20Project%20Sketch.jpg)
+
 
 
 
