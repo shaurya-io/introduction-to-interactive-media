@@ -10,7 +10,7 @@ Other elements I am thinking of introducing are a buzzer to signify Game Over, a
 
 A rough sketch can be seen below:
 
-![Sketch of the preliminary idea] (https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Final%20Project%20Sketch.jpg)
+![Sketch of the preliminary idea](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Final%20Project%20Sketch.jpg)
 
 
 
