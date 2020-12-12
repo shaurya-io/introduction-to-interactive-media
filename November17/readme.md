@@ -9,3 +9,13 @@ This project takes one of his famous background scores from Interstellar, and us
 The schematic for this project can be seen below:
 
 ![Schematic - Musical Instrument](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November17/Schematic_Final.PNG)
+
+### Problems and Challenges
+
+This project, which was actually quite simple in hindsight, was one that I unnecessarily complicated for myself. The reason for this was that I did not know how to use a sonic sensor, and therefore resorted to using an LDR and an object's shadow against a light-source as a makeshift distance sensor. Obviously, this was a far-from-ideal solution that was not reliable - for a musical progression to work, the values fed to the tone function need to increase predictably and not vary randomly, the latter of which was the case with the makeshift light-dependent distance sensor. 
+
+Debugging these problems required two approaches:
+
+a. **Using the right tool for the right job**: This meant replacing the LDR with a sonic sensor that uses sound waves to determine proximity (although by no means a very precise sensor, sonic sensors vary considerably lesser in their readings for the same distances than LDR-based distance setups). In addition, sonic sensors work well over a range of distances whereas the LDR-based setup I initially devised has a minimum distance below which there are no discernable changes in light levels, rendering the sensor unusable.
+
+b. **Debugging using a lot of println()**: My map function was not working properly, and the code error was fixed by manually printing out values to see which values fed to the tone function were the cause of the errors. 
