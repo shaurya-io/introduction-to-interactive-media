@@ -9,7 +9,7 @@ long duration;
 long distance;
 int buttonPress;
 
-int melodyA[] = {NOTE_A1, NOTE_E5, NOTE_A1, NOTE_E5};
+int melodyA[] = {NOTE_A1, NOTE_E5, NOTE_A1, NOTE_E5}; // these are the notes of the Interstellar theme track we are using for our progression 
 int melodyB[] = {NOTE_B2, NOTE_E5, NOTE_B2, NOTE_E5};
 int melodyC[] = {NOTE_C3, NOTE_E5, NOTE_C3, NOTE_E5};
 int melodyD[] = {NOTE_D4, NOTE_E5, NOTE_D4, NOTE_E5};
