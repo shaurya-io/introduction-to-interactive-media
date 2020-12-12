@@ -2,6 +2,12 @@
 
 For this assignment, I decided to make a sonar-esque system that uses the sonic distance sensor mounted on top of a servo motor. The distances and angles are then printed out in the Serial channel and communicated to Processing, where we can 'graph' these values into a visual system that resembles a sonar.
 
+The wiring for this project is rather simple, as most of the interesting stuff happens on the Processing side. For Arduino, all we need to do is to fix a sonic sensor on the breadboard, make the connections to Arduino, and then mount the entire breadboard onto a servo motor which itself is connected to the breakdboard (and to Arduino) in order to draw power and determine the values it covers in its movements.
+
+Here's the schematic:
+
+![Sonar_Schematic](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Schematic_Final.PNG)
+
 The hardware for this project looks like this:
 
 ![Sonar_demo Hardware](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar_Demo.gif)
