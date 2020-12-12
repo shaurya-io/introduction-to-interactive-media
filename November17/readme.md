@@ -4,5 +4,8 @@ For this project, while most of my peers decided to create devices that could pl
 
 This project takes one of his famous background scores from Interstellar, and uses a sonic distance sensor to create an instrument where the progression of the tune can be controlled using a piece of paper and varying its distance from our "instrument".
 
-
 ![Reference Image](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November17/Musical%20Instrument%20image.jpg)
+
+The schematic for this project can be seen below:
+
+![Schematic - Musical Instrument](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November17/Schematic_Final.PNG)
