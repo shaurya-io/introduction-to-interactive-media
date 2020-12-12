@@ -1,6 +1,6 @@
 ## Controlling LEDs with a Digital and an Analog Sensor 
 
-For this week's project, we had to design a system which incorporates a set of LEDs, which are somehow controlled using a digitial and an analog sensor. 
+For this week's project, we had to design a system which incorporates a set of LEDs, which are somehow controlled using a digital and an analog sensor. 
 
 To realize this goal, I decided to build an automatic light system that shuts off the LEDs when the room is brightly lit. When designing the idea, I noticed that I'd need to program 3 modes for the system:
 
