@@ -20,3 +20,4 @@ To create this system, I used 2 LEDs and an LDR to detect the amount of ambient 
 
 The schematic for this system is attached below:
 
+![Schematic for Ambient Light Sensor](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November10/Schematic_Final.PNG)
