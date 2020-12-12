@@ -5,6 +5,9 @@ For this week's project, we had to design a system which incorporates a set of L
 To realize this goal, I decided to build an automatic light system that shuts off the LEDs when the room is brightly lit. When designing the idea, I noticed that I'd need to program 3 modes for the system:
 
 1. Always ON - so that the lights are on irregardless of ambient lighting.
+
+![Always On](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November10/Always%20On.png)
+
 2. Always OFF - so that the lights are off irregardless of ambient lighting.
 3. Ambient Lighting Sensing Mode - so that the lights can decide whether to be on or off depending on how brightly lit the surrounding environment is.
 
