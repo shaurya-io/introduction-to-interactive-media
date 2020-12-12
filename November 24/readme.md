@@ -5,3 +5,7 @@ For this assignment, I decided to make a sonar-esque system that uses the sonic 
 The hardware for this project looks like this:
 
 ![Sonar_demo Hardware](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar_Demo.gif)
+
+On the Processing side, the output looks like this:
+
+![Sonar_Processing](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar+Processing.gif)
