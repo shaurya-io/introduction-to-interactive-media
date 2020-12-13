@@ -12,6 +12,22 @@ A rough sketch can be seen below:
 
 ![Sketch of the preliminary idea](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Final%20Project%20Sketch.jpg)
 
+### Journal Entry #2: December 1, 2020
+
+I began to look for a simple enough puzzle to incorporate in my sonar system. It mustn't be too hard because that would make the entire evading the sonar + solving the puzzle action too tricky and hard for most people. Fortunately for me, we had had an entire weekly assignment devoted to puzzles using Arduino, and I remembered some of the more interesting concepts that had been discussed in class. 
+
+I experimented with the memory game, and while it served the purpose, it did not truly replicate the "bomb-diffusing" tension that I wanted the game to have. My second experiment was with the simplest concept - follow the LED patterns and press the buttons corresponding to the colors, and once the player hits a certain number of correct combinations entered via the buttons, the bomb is 'diffused'. In addition, I decided to not include a penalty for wrong button-strokes because I realised that the game would be too hard as it is with the constant hovering of the sonar on your hands.
+
+### Journal Entry #3: December 3, 2020
+
+Today, I began implementing the finer details in the sonar system. This included adding a buzzer that buzzes for 5 seconds every time the sonar detects a breach, as well as a failsafe button that disables this buzzer as a way for the player to stay in the game. I added a few more details to my sonar visualizer, including distance, in/out of range, and an angle value to be displayed towards the bottom of the screen. 
+
+I also wanted to incorporate two sonic sensors at the same time and use them to chart out a 360-degree visualizer as part of my final project, but could not execute on it. In particular, the challenges included formatting the dual-channel data coming in from the two sensors and then parsing the strings recieved by Processing in a reliable manner. As you may notice, my current parsing algorithm that isolates values from the string recieved by Processing is quite complicated (or at least was for me - I view it as an achievement that I was able to accomplish that), and increasing the length of the recieved string by 2x and having to parse everything into seperate variables seemed too much grunt work with very little reward - leading me to reject the idea.
+
+**The double-sensor concept that wasn't to be**:
+
+![Double-sensor Concept](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Double-sensor%20concept.jpg)
+
 
 
 
