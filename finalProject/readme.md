@@ -25,3 +25,9 @@ As shown above, I had made decent progress on the sonar concept in a previous we
 The concept of the puzzle is very simple, and intentionally so. The LEDs flicker in a pattern, and the player is expected to match the pattern on the RGB buttons. In addition, the yellow button on the side is a failsafe that allows the player to temporarily disable the buzzer functionality of the sonar, thereby allowing the player some advantage and helping stay in the game for longer. 
 
 **A [video demo](https://drive.google.com/file/d/1pQhn5IntuLpZ6R4alW6kDmqzfScXuJI3/view?usp=sharing) of the game has been linked.**
+
+### Challenges and Key Lessons
+
+One of the biggest challenges I faced in this project was making Arduino and Processing communicate with each other effectively. It is one thing to be able to link the two, but quite another to set up a datastream from Arduino in such a way that it can be efficiently parsed by Processing into usable variables. For instance, my Arduino program needed to communicate with Processing the distance and the angle at which an object was detected by the ultrasonic sensor at every instant, and using methods like bufferUntil and creating substrings was a new experience for me, which I am sure will prove quite useful in the future.
+
+**There was also the unfortunate incident where I lost all my work at roughly 70% progress level and then had to spend two sleepless nights trying to recreate the entire project from memory and debugging the new codebase. While it seems elementary, I have now learned my lesson and will begin to use Git extensively to backup my code.**
