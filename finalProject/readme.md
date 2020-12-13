@@ -7,3 +7,13 @@ Following on from my previous weekly assignment in which I had demo'd a makeshif
 This project uses an ultrasonic distance sensor, 4 buttons, 3 LEDs, a servo motor, and a piezo buzzer. The schematic for the project can be seen below:
 
 ![Final Project Schematic](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Schematic_FinalProject.PNG)
+
+**In the previous version of this project, we had seen the following levels of progress**:
+
+1. Hardware and mounting the breadboard + ultrasonic sensor on the servo motor.
+
+![Hardware Sample](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar_Demo.gif)
+
+2. Processing side output.
+
+![Processing Demo](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar+Processing.gif)
