@@ -3,6 +3,19 @@ import processing.serial.*;
 import java.awt.event.KeyEvent; 
 int r;
 int dist;
+
+import ddf.minim.*;
+import ddf.minim.analysis.*;
+import ddf.minim.effects.*;
+import ddf.minim.signals.*;
+import ddf.minim.spi.*;
+import ddf.minim.ugens.*;
+
+
+Minim minim;
+
+AudioPlayer player;
+
 String rawinput="";
 String noObject;
 int commaLocator;
@@ -14,6 +27,9 @@ void setup() {
  smooth();
  p = new Serial(this,Serial.list()[3], 9600); 
  p.bufferUntil('.'); 
+ minim = new Minim(this);
+ player=minim.loadFile("backgroundSoundtrack.mp3");
+ player.play();
 
 }
 void lines() {
