@@ -17,3 +17,11 @@ This project uses an ultrasonic distance sensor, 4 buttons, 3 LEDs, a servo moto
 2. Processing side output.
 
 ![Processing Demo](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar+Processing.gif)
+
+### Adding the Puzzle Layer to the Sonar Project 
+
+As shown above, I had made decent progress on the sonar concept in a previous weekly project, which meant that to successfully turn it into my final project idea, I needed to integrate into the circuit an LED+Button based puzzle that would form the crux of the game. My experimentation with different kinds of puzzles has been expounded upon in the Journal file, but for the purposes of this readme, we will delve into a brief description of what the on-board puzzle is.
+
+The concept of the puzzle is very simple, and intentionally so. The LEDs flicker in a pattern, and the player is expected to match the pattern on the RGB buttons. In addition, the yellow button on the side is a failsafe that allows the player to temporarily disable the buzzer functionality of the sonar, thereby allowing the player some advantage and helping stay in the game for longer. 
+
+**A [video demo](https://drive.google.com/file/d/1pQhn5IntuLpZ6R4alW6kDmqzfScXuJI3/view?usp=sharing) of the game has been linked.**
