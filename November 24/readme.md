@@ -19,6 +19,4 @@ On the Processing side, the output looks like this:
 
 ![Sonar_Processing](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/November%2024/Sonar+Processing.gif)
 
-
-
-To take a look at the final version of this project, I invite you to check out my finalProject folder, where this demo has been combined with an onboard puzzle to create a (albeit a bit cliched) "bomb-diffusing" experience.
+**To take a look at the final version of this project, I invite you to check out my finalProject folder, where this demo has been combined with an onboard puzzle to create a (albeit a bit cliched) "bomb-diffusing" experience.**
