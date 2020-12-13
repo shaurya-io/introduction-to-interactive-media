@@ -29,6 +29,29 @@ I also wanted to incorporate two sonic sensors at the same time and use them to 
 ![Double-sensor Concept](https://github.com/shaurya-io/introduction-to-interactive-media/blob/master/finalProject/Double-sensor%20concept.jpg)
 
 
+### Journal Entry #4: December 6, 2020
+
+Now that the sonar implementation was complete, I began to work on the puzzle part of the project. For the puzzle, I would need to write functions that create the LED patterns, display the pattern, a function that keeps track of score, and a win/loss/restart function. Creating this puzzle was quite easy, because I had decided to go with a simple idea and not unneccesarily complicate things for myself (an important lesson I learnt on a previous project where I tried to build by own distance sensor using an LDR when, spoiler alert, a sonic distance sensor is included in the SparkFun Kit). 
+
+In addition, I identified the sonar visualizer as a potential improvement point, and noted it down as an area for further work.
+
+### Journal Entry #5: December 7, 2020
+
+Made some minor improvements to the sonar visualizer, including adding a fade effect to the lines in order to achieve a smoother transition effect. Integrated the buzzer with the Arduino code, fairly straightforward. 
+
+**THIS IS THE POINT WHERE I LOST EVERYTHING THAT I HAD WORKED ON DUE TO A POWER CUT IN MY ROOM, AND MY WORK BEING ON A UNIVERSITY iMAC WHICH WIPES ALL DATA CLEAN WITH EVERY REBOOT.**
+
+### Journal Entry #6: December 8, 2020
+
+I do not have much recollection of these two days, except that I had to recreate as much of the project as I could from memory. I considered requesting an extension but decided against it, somewhat confident that I could present something decent by the deadline. All my sonar fine-tuning of the visualizer was out of the window, and we were back to the basics. Coffee, code, more coffee, debugging, repeat.
+
+### Journal Entry #7: December 9, 2020
+
+Same as the 8th. Setting up the Sonar again was relatively easy, although getting the draw function for each individual element had been a trial-and-error exercise the first time as well and took a lot of time the second time around. _I used the same technique that I had used for my very first self-portrait assignment, where I created a grid using a while loop and used the grid as a reference to create my artwork_, and in this case, my sonar drawing. The recreation of the on-board puzzle brought with itself a lot of println() debugging yet again, but it's only a matter of time before you iron out the kinks. 
+
+### Journal Entry #8: December 10, 2020, 5pm GST
+
+Slept for 12 hours and woke up the next morning. Felt great and well-rested after two extremely gruelling days. :)
 
 
 
