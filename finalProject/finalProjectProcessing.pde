@@ -97,3 +97,9 @@ void draw() {
   pickupObstacle();
   lines();
 }
+
+void stop(){
+  player.close();
+  minim.stop();
+  super.stop();
+}
